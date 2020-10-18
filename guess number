@@ -24,4 +24,4 @@ for game in range(0,games):
                  else:
                     print("Too low")
            else:
-                print("Correct it took you this many guesses: %s", % attempts) 
+                print("Correct it took you this number of guesses: %s", % attempts) 
